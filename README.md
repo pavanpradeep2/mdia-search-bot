@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Techy-Z/Media-Search-bot)
 ### Hard Way
 
 ```bash
@@ -57,7 +57,7 @@ Size{file_size}
 * `AUTH_USERS`: Username or ID of users to give access of inline search. Separate multiple users by space. Leave it empty if you don't want to restrict bot usage.
 * `AUTH_CHANNEL`: ID of channel. Without subscribing this channel users cannot use bot.
 * `START_MSG`: Welcome message for start command.
-* `BUTTON` : Set this to True only if you want close button.
+* `BUTTON` : Set this to True only if you want a close button.
 
 ## Note
 * Currently [API used](http://www.omdbapi.com) here is allowing 1000 requests per day. [You may not get posters if its crossed](https://t.me/ThankTelegram/910168). 
@@ -81,12 +81,7 @@ logger - Get log file
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
-
-
-## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
-
-[Update Channel](https://t.me/subin_works)
+* [Subinps](https://github.com/subinps) for modding
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
